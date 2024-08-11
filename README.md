@@ -30,7 +30,7 @@ int returnBill(){
             cout<<"(2)Burger  : Price:-50/-"<<endl;
             cout<<"(3)Pizza  : Price:-100/-"<<endl;
             cout<<"(4)choumin  : Price:-150/-"<<endl;
-            cout<<"(1)veg-Roll  : Price:-100/-"<<endl;
+            cout<<"(5)veg-Roll  : Price:-100/-"<<endl;
             
             cin>>vegItem;
             if(vegItem=='1'){
@@ -63,7 +63,7 @@ int returnBill(){
             cout<<"(2)Chicken Burger  : Price:-100/-"<<endl;
             cout<<"(3)Chicken Pizza  : Price:-200/-"<<endl;
             cout<<"(4)Non-veg choumin  : Price:-200/-"<<endl;
-            cout<<"(1)Non-veg-Roll  : Price:-200/-"<<endl;
+            cout<<"(5)Non-veg-Roll  : Price:-200/-"<<endl;
             
             cin>>nonvegItem;
             if(nonvegItem=='1'){
