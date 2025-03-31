@@ -1,4 +1,3 @@
-# Billing-System-Minor-Project
 #include<iostream>
 using namespace std;
 
